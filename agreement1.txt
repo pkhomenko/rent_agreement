@@ -46,9 +46,9 @@ DECIMOTERCERA. – Sumisión a Juzgados y Tribunales. Los comparecientes acuerda
 Leído el presente documento, los comparecientes lo encuentran conforme con su voluntad, por lo que se ratifican en su contenido y lo suscriben en tantos ejemplares como partes firmantes, quedando un ejemplar en poder de cada una de ellas, todo ello en la Ciudad y fecha que figura en el encabezamiento.
 El presente contrato podrá firmarse por medios electrónicos y/o en ejemplares separados, considerándose todos ellos un único documento a todos los efectos.
 
-ANEXO 1 — Recibo de entrega en metálico de rentas (12/01/2026)
+ANEXO I — Recibo de entrega en metálico (rentas y garantías)
 
-ANEXO I — RECIBO DE ENTREGA EN METÁLICO (RENTAS)
+ANEXO I — RECIBO DE ENTREGA EN METÁLICO (RENTAS Y GARANTÍAS)
 En Bétera (Valencia), a 12 de enero de 2026.
 REUNIDOS
 De una parte, D./Dª ..., y Dª./D. ..., en adelante, EL ARRENDADOR.
@@ -56,20 +56,23 @@ Y de otra, D./Dª ..., y Dª./D. ..., en adelante, LOS ARRENDATARIOS.
 
 MANIFIESTAN
 I. Que en fecha ... ambas partes han suscrito un contrato de arrendamiento de vivienda respecto de la vivienda sita en ..., Bétera (Valencia), calle ..., nº ..., puerta ..., (en adelante, el Contrato).
-II. Que, conforme a lo pactado en la cláusula TERCERA del Contrato, en el momento de la entrega de llaves (12/01/2026) y mientras LOS ARRENDATARIOS carezcan de cuenta bancaria en España, procede el abono en metálico de la renta prorrateada del período inicial y, en concepto de anticipo voluntario de rentas, de las mensualidades indicadas.
+II. Que en esta fecha se produce la entrega de llaves y toma de posesión de la vivienda arrendada.
+III. Que, conforme a lo pactado en las cláusulas TERCERA y OCTAVA del Contrato, procede documentar la entrega en metálico de determinadas cantidades en concepto de rentas (incluyendo anticipo voluntario) y garantías.
 ACUERDAN Y OTORGAN EL PRESENTE RECIBO
-Primero. — Cantidades entregadas.
+Primero. — Cantidad total entregada.
 En este acto, LOS ARRENDATARIOS entregan a EL ARRENDADOR, quien declara recibir en metálico, en la vivienda arrendada, la cantidad total de:
-CUATRO MIL TRESCIENTOS SESENTA Y CUATRO EUROS CON CINCUENTA Y DOS CÉNTIMOS (4.364,52 €)
-correspondiente a los siguientes conceptos:
-Renta prorrateada del período 12/01/2026 a 31/01/2026 (20 días):
-Renta mensual pactada: 1.650,00 €
-Cálculo: (1.650,00 € / 31) × 20 = 1.064,52 €
+SEIS MIL SEISCIENTOS EUROS (6.600,00 €)
+Segundo. — Desglose e imputación.
+La cantidad anterior corresponde a los siguientes conceptos, quedando imputada a los mismos:
+A) Rentas (cláusula TERCERA):
 Mensualidad completa de febrero de 2026: 1.650,00 €
-Mensualidad completa de marzo de 2026 (en concepto de anticipo voluntario de rentas): 1.650,00 €
-Segundo. — Imputación.
-Las cantidades indicadas quedan imputadas exclusivamente a las rentas de los períodos señalados en el apartado Primero, conforme a la cláusula TERCERA del Contrato.
-Tercero. — Carta de pago.
+Mensualidad completa de marzo de 2026, en concepto de anticipo voluntario de rentas: 1.650,00 €
+B) Garantías (cláusula OCTAVA):
+3) Fianza legal (art. 36 LAU): 1.650,00 €
+4) Garantía adicional: 1.650,00 €
+Tercero. — Periodo de carencia/bonificación.
+Las partes dejan constancia de que, conforme a lo pactado en la cláusula TERCERA del Contrato, existe un periodo de carencia/bonificación de renta desde el 12/01/2026 hasta el 31/01/2026, ambos inclusive, durante el cual no se devengará renta.
+Cuarto. — Carta de pago.
 El presente documento sirve como carta de pago y recibo de las cantidades indicadas.
 Y en prueba de conformidad, firman el presente anexo por todas las partes, en el lugar y fecha indicados.
 
